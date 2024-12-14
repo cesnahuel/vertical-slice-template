@@ -1,0 +1,6 @@
+@VerticalSliceTemplate_HostAddress = http://localhost:5144
+
+GET {{VerticalSliceTemplate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
